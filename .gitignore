@@ -4,3 +4,12 @@
 
 /.vs
 /MyBazar/.vs
+/MyBazar/MyBazar.Database/bin/Debug
+/MyBazar/MyBazar.Database/obj/Debug
+/MyBazar/MyBazar.Entities/bin/Debug
+/MyBazar/MyBazar.Entities/obj/Debug
+/MyBazar/MyBazar.Services/bin/Debug
+/MyBazar/MyBazar.Services/obj/Debug
+/MyBazar/MyBazar.Web/bin
+/MyBazar/MyBazar.Web/bin/Debug
+/MyBazar/MyBazar.Web/obj/Debug
