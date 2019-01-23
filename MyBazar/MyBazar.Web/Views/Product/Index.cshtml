@@ -1,0 +1,20 @@
+﻿@model List<Product>
+@{
+    ViewBag.Title = "Index";
+}
+
+<div id="tableConatainer">
+    @{
+        Html.RenderAction("ProductsTable");
+        //Html.RenderAction("Create");
+    };
+
+</div>
+
+<div id="ActionContainer">
+
+</div>
+
+
+
+
